@@ -30,3 +30,4 @@ for article in articles:
         yt_link = None
     print(yt_link)
     print()
+    
